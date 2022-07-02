@@ -1,0 +1,12 @@
+/home/benson/System_Programming_With_Rust/hello/target/debug/deps/assert_cmd-14488724a34a22ac.rmeta: /home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/lib.rs /home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/assert.rs /home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cargo.rs /home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cmd.rs /home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/output.rs /home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/../README.md
+
+/home/benson/System_Programming_With_Rust/hello/target/debug/deps/libassert_cmd-14488724a34a22ac.rlib: /home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/lib.rs /home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/assert.rs /home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cargo.rs /home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cmd.rs /home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/output.rs /home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/../README.md
+
+/home/benson/System_Programming_With_Rust/hello/target/debug/deps/assert_cmd-14488724a34a22ac.d: /home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/lib.rs /home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/assert.rs /home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cargo.rs /home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cmd.rs /home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/output.rs /home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/../README.md
+
+/home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/lib.rs:
+/home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/assert.rs:
+/home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cargo.rs:
+/home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/cmd.rs:
+/home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/output.rs:
+/home/benson/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-1.0.8/src/../README.md:
